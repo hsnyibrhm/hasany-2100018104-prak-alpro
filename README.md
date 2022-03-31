@@ -1,2 +1,2 @@
-# hasany-2100018104-prak-alpro
+# Repository Praktikum Algoritma Pemrograman
 ini repository prak alpro
