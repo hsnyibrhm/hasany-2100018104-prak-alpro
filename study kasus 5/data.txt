@@ -1,0 +1,6 @@
+string nama,matkul[30];
+	int nim,sks[10] ;
+	int jmlmtkl;
+	int biaya = 15000;
+	int bayar;
+
