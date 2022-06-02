@@ -1,6 +1,0 @@
-menginputkan berapa banyak data yg akan di input
-input data
-sorting
-menampilkan output sorting
-cari
-menampilkan data yang di cari
