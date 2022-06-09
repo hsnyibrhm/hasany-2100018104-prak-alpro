@@ -1,0 +1,8 @@
+pertama menginputkan id trus nama barang dan harga menggunakan perulangan for dan array 2d
+menampilkan hasil inputan 
+mencari data yang telah di inputkan
+setelahnya ditampilkan id, nama dan harga
+
+data yang di butuhkan
+string a[7][3];
+string cari;
