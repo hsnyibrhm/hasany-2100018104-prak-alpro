@@ -1,0 +1,9 @@
+pertama menginputkan data menggunakan array 1d
+setelah itu rubah menjadi array 2d
+yang terakhir tampilkan data yang telah menjadi data 2d
+
+
+data yang di perlukan
+string data[45];
+string mhs[3][15];
+int i, j, a, b,;
