@@ -1,0 +1,16 @@
+pertama menginputkan data ke array i dimensi
+kemudian simpan data array yang di inputkan ke pointer
+dan terakhir tampilkan data yang sudah dimasukan ke pointer
+
+data yang di perlukan
+int nim[10];
+    int n;
+    string nama[10];
+    int *nimM;
+    string *namaM;
+
+
+pembagian tugas 
+hasany : input
+danial : proses
+ardy : output
